@@ -2677,6 +2677,10 @@ expo-sqlite@~8.0.0:
     "@types/websql" "^0.0.27"
     lodash "^4.17.15"
 
+"expo-toast@git+ssh://git@github.com:thomas-lin/expo-toast.git#1.0.0":
+  version "1.0.0"
+  resolved "git+ssh://git@github.com:thomas-lin/expo-toast.git#2b3d089f51d856cc9a9c0b60ce763d7ea0f0b9c0"
+
 expo-web-browser@~8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-8.0.0.tgz#8a4451c744c115569a4c810dac8851f219a21c72"
@@ -5456,6 +5460,10 @@ react-native-reanimated@~1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-1.4.0.tgz#7f1acbf9be08492d834f512700570978052be2f9"
   integrity sha512-tO7nSNNP+iRLVbkcSS5GXyDBb7tSI02+XuRL3/S39EAr35rnvUy2JfeLUQG+fWSObJjnMVhasUDEUwlENk8IXw==
+
+"react-native-rn-toast@git+ssh://git@github.com:thomas-lin/react-native-rn-toast.git#1.0.0":
+  version "1.0.0"
+  resolved "git+ssh://git@github.com:thomas-lin/react-native-rn-toast.git#d4ac702e914b9c4ce5ddd4e1c7e100a0e524a082"
 
 react-native-screens@~2.0.0-alpha.12:
   version "2.0.0-alpha.17"

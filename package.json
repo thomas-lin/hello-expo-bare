@@ -16,7 +16,9 @@
     "react-native-reanimated": "~1.4.0",
     "react-native-screens": "~2.0.0-alpha.12",
     "react-native-unimodules": "~0.7.0",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "react-native-rn-toast": "git+ssh://git@github.com:thomas-lin/react-native-rn-toast.git#1.0.0",
+    "expo-toast": "git+ssh://git@github.com:thomas-lin/expo-toast.git#1.0.0"
   },
   "devDependencies": {
     "@babel/core": "~7.6.0",
